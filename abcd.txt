@@ -1,0 +1,6 @@
+// let x=3 in let y=4 in x+y
+// let f x y z = x+y+z in f 1 2 3
+// Print (1,(2,3),4)
+// (fn x y z.x+y+z) 2 3 4
+// let c = 3 within f x = x + c in f 2
+let x=1 in let y=3 in not (+x+y)
